@@ -4,9 +4,9 @@
 
 # Топология сети
 
-![plot](lab1/images/topology.png)
+![plot](images/topology.png)
 
 # Ping устройств
 
-![plot](lab1/images/VPC1.png)
-![plot](lab1/images/VPC2.png)
+![plot](images/VPC1.png)
+![plot](images/VPC2.png)
